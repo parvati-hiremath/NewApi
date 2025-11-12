@@ -1,2 +1,2 @@
-# NewApi 
-creating first project
+
+This is project is for learnig Git!
